@@ -1,0 +1,3 @@
+- 1'b1 = 1 bit en binario con valor 1
+- assign es continuo, si la derecha cambia, la salida cambia
+- Los wires en Verilog son direccionales (tienen fuente y destino)
