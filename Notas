@@ -5,6 +5,7 @@
 Para guardar en Git: 
     -git add .
     -git commit -m "nombre del archivo"
+    -git pull
     -git push
  Si GitHub tiene cambios que tú no tienes → git pull primero
  Siempre guarda en VSCode con Ctrl+S antes del git add .
