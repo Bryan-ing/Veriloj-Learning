@@ -3,7 +3,7 @@
     assign destino = fuente;
 - Los wires en Verilog son direccionales (tienen fuente y destino)
 
-Para simular: 
+Para Compilar: 
     Ejemplo:
         iverilog -o nor_gate_sim nor_gate.v nor_gate_tb.v
 Para guardar en Git: 
