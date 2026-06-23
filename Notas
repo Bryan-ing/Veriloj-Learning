@@ -9,6 +9,9 @@ Para Compilar:
 Para Simular:
     Ejemplo: 
         vvp xnor_gate_sim
+Ver graficas:
+    Ejemplo:
+        gtkwave xnor_gate.vcd
 Para guardar en Git: 
     -git add .
     -git commit -m "nombre del archivo"
