@@ -12,10 +12,14 @@ Para Simular:
 Ver graficas:
     Ejemplo:
         gtkwave xnor_gate.vcd
+
 Para guardar en Git: 
     -git add .
     -git commit -m "nombre del archivo"
     -git pull
+         para el error---> git pull --rebase: cuando aparece "divergent branches", 
+              toma mis cambios locales y los pone encima de los cambios 
+              de GitHub, evitando conflictos.
     -git push
  Si GitHub tiene cambios que tú no tienes → git pull primero
  Siempre guarda en VSCode con Ctrl+S antes del git add .
